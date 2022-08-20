@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "Ahmed Helal 2",
+      "email": "a@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Commodi at asperiore",
+      "email": "hygeqetyg@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "name": "Atque inventore non ",
+      "email": "misedymari@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    },
+    {
+      "name": "Atque inventore non ",
+      "email": "misedymari@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "a@gmail.com",
+      "password": "123456789",
+      "id": 5
+    },
+    {
+      "name": "Asperiores deserunt ",
+      "email": "dimypipy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "name": "Officia duis magnam ",
+      "email": "kusy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "name": "Consectetur sapient",
+      "email": "xave@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 8
+    },
+    {
+      "name": "Distinctio Est non ",
+      "email": "sahumo@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 9
+    },
+    {
+      "name": "addfdfdf",
+      "email": "gajap@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 10
+    }
+  ],
+  "locations": [
+    {
+      "name": "vyxovidyqu@mailinator.com",
+      "address": "Ad qui nihil provide",
+      "phone": "+1 (498) 695-9496",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "dywewajyf@mailinator.com",
+      "address": "Illum omnis dolorum",
+      "phone": "+1 (869) 235-8444",
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
